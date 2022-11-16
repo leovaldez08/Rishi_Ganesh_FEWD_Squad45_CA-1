@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Roboto:wght@300&display=swap');
+
+*{
+ background-image: url(https://stackblitz.com/files/web-platform-6j1j99/github/Kalvium-Program/netflix-clone-boilerplate/main/assets/Title-Image.png);
+ font-family: 'Nunito Sans', sans-serif;
+ font-family: 'Roboto', sans-serif;
+ background-size: 100%;
+ height: 100%;
+}
+
+#titleimage{
+  height:30px;
+  position: absolute;
+  background-image: none;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+
+
+a{
+  list-style-type: none;
+  display: inline;
+  background-image: none;
+  margin: 0;
+}
+
+.search{
+  height: 100px;
+  width: 100px;
+}
